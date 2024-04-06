@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/05 14:55:18.000.115,=C:\Users\MarcosHigashi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/05 14:58:06.000.725,C:\Users\MarcosHigashi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\MarcosHigashi\Desktop\UserMarcosHHigashi\CapacitaçãoDelphi\Exemplo_01\untFrmExemplo_01.pas</Transaction>
+    <Transaction>2024/04/05 14:58:06.000.725,C:\Users\MarcosHigashi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\MarcosHigashi\Desktop\UserMarcosHHigashi\CapacitaçãoDelphi\Exemplo_01\untFrmExemplo_01.dfm</Transaction>
+    <Transaction>2024/04/05 14:58:25.000.154,C:\Users\MarcosHigashi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\MarcosHigashi\Desktop\UserMarcosHHigashi\CapacitaçãoDelphi\Exemplo_01\Exemplo_01.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
